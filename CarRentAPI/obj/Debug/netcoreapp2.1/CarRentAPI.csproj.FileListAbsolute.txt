@@ -1,0 +1,14 @@
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\bin\Debug\netcoreapp2.1\CarRentAPI.deps.json
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\bin\Debug\netcoreapp2.1\CarRentAPI.runtimeconfig.json
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\bin\Debug\netcoreapp2.1\CarRentAPI.runtimeconfig.dev.json
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\bin\Debug\netcoreapp2.1\CarRentAPI.dll
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.csprojAssemblyReference.cache
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.csproj.CoreCompileInputs.cache
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.RazorAssemblyInfo.cache
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.RazorAssemblyInfo.cs
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.AssemblyInfoInputs.cache
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.AssemblyInfo.cs
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\bin\Debug\netcoreapp2.1\CarRentAPI.pdb
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.dll
+C:\Users\Hendro Prabowo\source\repos\CarRentAPI\CarRentAPI\obj\Debug\netcoreapp2.1\CarRentAPI.pdb
