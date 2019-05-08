@@ -35,7 +35,7 @@ namespace CarRentAPI
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "api/{controller}/{action}/{id}"
+                    template: "api/{controller=car}/{action=index}/{id}"
                     );
             });
         }

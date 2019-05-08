@@ -14,8 +14,13 @@ namespace CarRentAPI.Controllers
         public JsonResult Index()
         {
             var cars = carsContext.Cars;
+            List<Cars> allCars = new List<Cars>();
+            foreach(Cars car in cars){
+                if (car.Car_Status == 0)
+                    allCars.Add(car);
+            }
 
-            return Json(cars);
+            return Json(allCars);
         }
 
         [HttpGet]
